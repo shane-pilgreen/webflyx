@@ -1,0 +1,72 @@
+[33mcommit 0566f7dcb0a25f091780b483ba2eb4d239983b97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Thu Apr 2 17:14:55 2026 -0500
+
+    J: overwrote titles
+
+[33mcommit f17e307f3d27b05db526f9f8ba783a9c7f7b116f[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Wed Apr 1 17:14:39 2026 -0500
+
+    I: Fear is the mind-killer.
+
+[33mcommit efa29ae8c6bf89e5cb0ec1a672f0049e1a60e9db[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Wed Apr 1 17:12:52 2026 -0500
+
+    H: The spice must flow.
+
+[33mcommit f0028eea86d2e48dff33f0c1bf189ab0c197d0cc[m[33m ([m[1;32mmain[m[33m)[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Sun Mar 29 21:49:55 2026 -0500
+
+    G: updated titles.md with Benjamin Button
+
+[33mcommit efd142035074f807a334d8206c8db01c7d586d5b[m
+Merge: ebc5963 2591dac
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Thu Mar 26 17:17:18 2026 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit ebc596345dfb42561d9cdc42ba257f74c9c6a279[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Wed Mar 25 16:53:10 2026 -0500
+
+    E: Added content to contents.md
+
+[33mcommit 2591daccbde6196c376a8f65fab5b72cca7aa3ab[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Tue Mar 24 17:19:12 2026 -0500
+
+    D: classics.csv
+
+[33mcommit 9b0024694a96ed7995a3516b54ec1ef21d5af2e3[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Tue Mar 17 11:24:53 2026 -0500
+
+    C: add quotes
+
+[33mcommit a20d9f8ee209b5375a85ad8f3fc06872734c1388[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Tue Mar 17 11:21:02 2026 -0500
+
+    Z: removed  title.md
+
+[33mcommit 1280449d7e2bc6bc90b339c364fc6310b113cf4e[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Tue Mar 17 11:19:09 2026 -0500
+
+    B: add titles
+
+[33mcommit 3ae201880abfa0e1eaeddd4a658ecad089137ca5[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Tue Mar 17 11:16:03 2026 -0500
+
+    B: add titles
+
+[33mcommit cfbf9fc1172ad1aa251fdf7f3b68e915da15bf79[m
+Author: shane-pilgreen <shane.pilgreen@gmail.com>
+Date:   Sun Mar 15 10:34:02 2026 -0500
+
+    A: add contents.md
